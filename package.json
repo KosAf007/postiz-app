@@ -299,6 +299,9 @@
   "pnpm": {
     "onlyBuiltDependencies": [
       "bcrypt"
-    ]
+    ],
+  "overrides": {
+    "ioredis": "4.28.5"
+  }
   }
 }
